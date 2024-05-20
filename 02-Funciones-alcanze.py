@@ -47,3 +47,7 @@ def ext_greet(texto1, texto2) -> int:
     return count 
 
 print(ext_greet("texto 1", "texto 2"))
+
+
+
+print("a" in prm_greet)
